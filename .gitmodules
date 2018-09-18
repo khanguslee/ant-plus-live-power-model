@@ -1,0 +1,6 @@
+[submodule "ant-plus-app"]
+	path = ant-plus-app
+	url = https://github.com/khanguslee/ant-plus-app.git
+[submodule "MHP_Modelling"]
+	path = MHP_Modelling
+	url = https://github.com/Monash-Human-Power/MHP_Modelling.git
